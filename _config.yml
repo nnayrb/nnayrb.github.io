@@ -4,7 +4,7 @@ bio:                'Python Developer, Estudant of Computer Science'
 description:        "Desenvolvedor Python, Estudante de Ciencias da Computação e amante de tecnologias e jogos."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logoteste.png'
 background:         'assets/img/possivellogo.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
